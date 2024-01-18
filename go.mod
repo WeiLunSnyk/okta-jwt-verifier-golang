@@ -1,6 +1,6 @@
 module github.com/okta/okta-jwt-verifier-golang/v2
 
-go 1.21.6
+go 1.21.5
 
 require (
 	github.com/jarcoal/httpmock v1.1.0
